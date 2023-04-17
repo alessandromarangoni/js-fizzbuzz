@@ -1,0 +1,36 @@
+#box_feezbuzz{
+    background-color: yellowgreen;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#box_feez{
+    background-color: rgb(47, 143, 233);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#box_buzz{
+    background-color: rgb(205, 94, 50);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+#box_i{
+    background-color: rgb(239, 35, 228);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.box_generic{
+    width: 100px;
+    height: 100px;
+    margin:10px;
+    color:white;
+    font-weight: 900;
+    font-size: 1.5rem;
+    border-radius: 20px;
+}
